@@ -1,7 +1,20 @@
-### Olá! Eu sou o Igor Lourenço 👋
+### Olá! Seja bem vindo ao meu Github 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando framework Spring Boot com Java
+Sou Desenvolvedor de Sistemas, formado pela Universidade Uninove (SP) e atualmente moro em Barueri-SP. Sou um aluno 
+apaixonado que está sempre disposto a aprender e trabalhar por meio do uso de tecnologias.
+ Eu realmente amo o poder que a tecnologia tem para resolver problemas da vida real.
+
+ Atualmente estou trabalhando para desenvolvimento web e mobile. Entrei no GitHub há 1 ano e desde então
+ me tornei apaixonado por código aberto e versionamento.
+ 
+ ##
+ 
+ ### Algumas coisas pessoais sobre mim:
+- 🛠 Atualmente desenvolvendo front-end com framework em React com Typescript, React, React Native, e Javascript.
+- 🔭 Desenvolvimento back-end com Spring Boot com Java, JQuery, OAuth2, JWT, PostgresSQL, MVC entre outros.
+- 🚀 Atualmente, estou estudando sobre Desenvolvimento Full Stack.
+
+##
 
  <div>
   <a href="https://github.com/igor-lourenco">
