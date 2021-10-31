@@ -10,7 +10,7 @@ apaixonado que está sempre disposto a aprender e trabalhar por meio do uso de t
  ##
  
  ### Algumas coisas pessoais sobre mim:
-- 🛠 Atualmente desenvolvendo front-end com framework em React com Typescript, React, React Native, e Javascript.
+- 🛠 Desenvolvendo front-end com framework React com Typescript, React, React Native, e Javascript.
 - 🔭 Desenvolvimento back-end com Spring Boot com Java, JQuery, OAuth2, JWT, PostgresSQL, MVC entre outros.
 - 🚀 Atualmente, estou estudando sobre Desenvolvimento Full Stack.
 
