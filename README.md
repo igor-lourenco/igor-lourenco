@@ -4,8 +4,7 @@ Sou Desenvolvedor de Sistemas, formado pela Universidade Uninove (SP) e atualmen
 apaixonado que está sempre disposto a aprender e trabalhar por meio do uso de tecnologias.
  Eu realmente amo o poder que a tecnologia tem para resolver problemas da vida real.
 
- Atualmente estou me especializando para desenvolvimento web e mobile. Entrei no GitHub há 1 ano e desde então
- me tornei apaixonado por código aberto e versionamento.
+
  
  ##
  
